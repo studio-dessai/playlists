@@ -1,6 +1,5 @@
 * [Fuck Buttons](http://musicbrainz.org/artist/f4640b20-b76b-40d3-9ffc-a38b6718b273) – Brainfreeze (_Slow Focus_, ATP Recordings, 2013, England)
 * [The Soft Moon](http://musicbrainz.org/artist/93eba14e-f85c-4d39-8412-5e4018c89d75) – Die Life (_Zeros_, Captured Tracks, 2012, USA)
 * [Zola Jesus](http://musicbrainz.org/artist/c35bd778-efb5-424b-ba7b-dae56d01a206) – Lady Maslenitsa (_New Amsterdam_, Sacred Bones Records, 2009, USA)
-* [Tesslesstess](http://musicbrainz.org/artist/b3a7c641-279b-442f-a70a-eec1d65a7382) - Hug Me Under a Bridge (_Does It See Into Me?_, self-released, 2014, Germany)
 * [Jamie xx](http://musicbrainz.org/artist/d1515727-4a93-4c0d-88cb-d7a9fce01879) - Girl (_Girl / Sleep Sound_, Young Turks, 2014, England)
 * [Quench](http://musicbrainz.org/artist/91790b6d-3b93-43f6-a77a-de410057b08c) - Bud ([Loess](http://musicbrainz.org/artist/98c65a03-f9a7-4d69-aa46-1637135ca6c3) remix) (_Burrows_, Nonresponse, 2009, Netherlands / USA)
