@@ -3,3 +3,7 @@
 * [Zola Jesus](http://musicbrainz.org/artist/c35bd778-efb5-424b-ba7b-dae56d01a206) – Lady Maslenitsa (_New Amsterdam_, Sacred Bones Records, 2009, USA)
 * [Jamie xx](http://musicbrainz.org/artist/d1515727-4a93-4c0d-88cb-d7a9fce01879) - Girl (_Girl / Sleep Sound_, Young Turks, 2014, England)
 * [Quench](http://musicbrainz.org/artist/91790b6d-3b93-43f6-a77a-de410057b08c) - Bud ([Loess](http://musicbrainz.org/artist/98c65a03-f9a7-4d69-aa46-1637135ca6c3) remix) (_Burrows_, Nonresponse, 2009, Netherlands / USA)
+* [To Rococo Rot](http://musicbrainz.org/artist/3e7321b9-095c-4689-a086-eb75fa750157) - Horses (_Speculation_, Domino, 2010, Germany)
+
+* [The Notwist](http://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d) - title (_album_, label, year, Germany)
+* [Extrawelt](http://musicbrainz.org/artist/1ef2bd54-9610-40ba-87dd-c195828411a9) - title (_album_, label, year, Germany)
