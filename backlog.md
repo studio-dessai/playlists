@@ -7,3 +7,4 @@
 
 * [The Notwist](http://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d) - title (_album_, label, year, Germany)
 * [Extrawelt](http://musicbrainz.org/artist/1ef2bd54-9610-40ba-87dd-c195828411a9) - title (_album_, label, year, Germany)
+* [Juana Molina](http://musicbrainz.org/artist/eca5dd0e-edc7-4658-85f0-762e263b4acd) - title (_Wed 21_, Crammed Discs, 2013, Argentina)
