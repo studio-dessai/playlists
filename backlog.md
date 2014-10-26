@@ -8,3 +8,11 @@
 * [The Notwist](http://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d) - title (_album_, label, year, Germany)
 * [Extrawelt](http://musicbrainz.org/artist/1ef2bd54-9610-40ba-87dd-c195828411a9) - title (_album_, label, year, Germany)
 * [Juana Molina](http://musicbrainz.org/artist/eca5dd0e-edc7-4658-85f0-762e263b4acd) - title (_Wed 21_, Crammed Discs, 2013, Argentina)
+
+VGM:
+
+* [Eirik Suhrke](http://musicbrainz.org/artist/b15a6fe6-8863-444c-bfc6-8d885e8896d1) - Home Waters - Down (_Ridiculous Fishing_, [no label], 2013, Norway) – from _Ridiculous Fishing_ by Vlambeer
+* [Eirik Suhrke](http://musicbrainz.org/artist/b15a6fe6-8863-444c-bfc6-8d885e8896d1) - Home Waters - Up (_Ridiculous Fishing_, [no label], 2013, Norway) – from _Ridiculous Fishing_ by Vlambeer
+* [The Amazing Rolo](http://musicbrainz.org/artist/aeb5fd10-add1-4207-8a96-bd6a012e6033) - Illusion of Control (_Music Inspired By, Associated With, or Using Samples From Bad Hotel_, [no label], 2013, Scotland) – from _Bad Hotel_ by Lucky Frame
+* [Simon Périn](http://musicbrainz.org/artist/9119cf08-dcfd-44d5-9a53-d9f96f623bba) - Eternity (_ Edge: Sweet Music From the Game_, [no label], 2009, France) – from _Edge_ by Mobigame
+* [Josh Freund](http://musicbrainz.org/artist/d9054716-3523-4dd2-b04f-78060b2d3408) (a.k.a. Drakken) - Dreamscapes (_Anodyne Remix Album_, [no label], 2013, USA) – from _Anodyne_ by Analgesic Productions
