@@ -8,8 +8,7 @@
 * [The Notwist](http://musicbrainz.org/artist/f180cec2-9421-4417-a841-c7372090d13d) - title (_album_, label, year, Germany)
 * [Extrawelt](http://musicbrainz.org/artist/1ef2bd54-9610-40ba-87dd-c195828411a9) - title (_album_, label, year, Germany)
 
-1. [Juana Molina](http://musicbrainz.org/artist/eca5dd0e-edc7-4658-85f0-762e263b4acd) - Las Edades (_Wed 21_, Crammed Discs, 2013, Argentina)
-1. [I'lls]() - Fifty​-​Phiphti (_Fifty​-​Phiphti / Asakusa_, Solitaire, 2014, Australia)
+1. [I'lls](http://musicbrainz.org/artist/76963511-af79-4ead-bd10-5f8c236d0a2a) - Fifty​-​Phiphti (_Fifty​-​Phiphti / Asakusa_, Solitaire, 2014, Australia)
 
 VGM:
 
