@@ -10,6 +10,10 @@
 
 1. [I'lls](http://musicbrainz.org/artist/76963511-af79-4ead-bd10-5f8c236d0a2a) - Fifty​-​Phiphti (_Fifty​-​Phiphti / Asakusa_, Solitaire, 2014, Australia)
 
+1. [Leidi Misterie]() (a.k.a. slowflake) and [nordBeck]() - When Touching a Robot's Heart (online, self-released, 2010, Sweden) – download the track on [Soundcloud](https://soundcloud.com/leidi-misterie/leidi-misterie-and-nordbeck-when-touching-a-robots-heart)
+1. [Coeval](http://musicbrainz.org/artist/5abe505d-5d43-41d1-bb79-9f4468fe44b1) - title (_release_, label, year, country)
+1. [Mauricio Kagel](http://musicbrainz.org/artist/9f185094-f3d7-4e33-9f60-4588d4c63cb3) - title (_Acustica_, Deutsche Grammophon, 1972, Germany / Argentina)
+
 VGM:
 
 1. [Eirik Suhrke](http://musicbrainz.org/artist/b15a6fe6-8863-444c-bfc6-8d885e8896d1) - Home Waters - Down (_Ridiculous Fishing_, [no label], 2013, Norway) – from _Ridiculous Fishing_ by Vlambeer
@@ -17,3 +21,7 @@ VGM:
 1. [The Amazing Rolo](http://musicbrainz.org/artist/aeb5fd10-add1-4207-8a96-bd6a012e6033) - Illusion of Control (_Music Inspired By, Associated With, or Using Samples From Bad Hotel_, [no label], 2013, Scotland) – from _Bad Hotel_ by Lucky Frame
 1. [Simon Périn](http://musicbrainz.org/artist/9119cf08-dcfd-44d5-9a53-d9f96f623bba) - Eternity (_ Edge: Sweet Music From the Game_, [no label], 2009, France) – from _Edge_ by Mobigame
 1. [Josh Freund](http://musicbrainz.org/artist/d9054716-3523-4dd2-b04f-78060b2d3408) (a.k.a. Drakken) - Dreamscapes (_Anodyne Remix Album_, [no label], 2013, USA) – from _Anodyne_ by Analgesic Productions
+
+Template:
+
+1. []() - title (_release_, label, year, country)
