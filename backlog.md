@@ -14,6 +14,9 @@
 1. [Coeval](http://musicbrainz.org/artist/5abe505d-5d43-41d1-bb79-9f4468fe44b1) - title (_release_, label, year, country)
 1. [Mauricio Kagel](http://musicbrainz.org/artist/9f185094-f3d7-4e33-9f60-4588d4c63cb3) - title (_Acustica_, Deutsche Grammophon, 1972, Germany / Argentina)
 
+1. [David Lynch](https://musicbrainz.org/artist/752d58e6-d33f-4dcd-b40c-37acc14242f2) - I Know ([Jon Hopkins](https://musicbrainz.org/artist/0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd) remix) (_Good Day Today / I Know_, Sunday Best Recordings, 2011, USA / England)
+1. [David Lynch](https://musicbrainz.org/artist/752d58e6-d33f-4dcd-b40c-37acc14242f2) & [Alan R. Spelt](https://musicbrainz.org/artist/29768c58-358f-474e-adab-3b96677511d4) - Eraserhead Dance Mix (_Eraserhead: Original Soundtrack Plus_, Absurda, 2003, USA / USA)
+
 VGM:
 
 1. [Eirik Suhrke](http://musicbrainz.org/artist/b15a6fe6-8863-444c-bfc6-8d885e8896d1) - Home Waters - Down (_Ridiculous Fishing_, [no label], 2013, Norway) – from _Ridiculous Fishing_ by Vlambeer
