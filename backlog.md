@@ -17,6 +17,10 @@
 1. [David Lynch](https://musicbrainz.org/artist/752d58e6-d33f-4dcd-b40c-37acc14242f2) - I Know ([Jon Hopkins](https://musicbrainz.org/artist/0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd) remix) (_Good Day Today / I Know_, Sunday Best Recordings, 2011, USA / England)
 1. [David Lynch](https://musicbrainz.org/artist/752d58e6-d33f-4dcd-b40c-37acc14242f2) & [Alan R. Spelt](https://musicbrainz.org/artist/29768c58-358f-474e-adab-3b96677511d4) - Eraserhead Dance Mix (_Eraserhead: Original Soundtrack Plus_, Absurda, 2003, USA / USA)
 
+1. [Suff Daddy](http://musicbrainz.org/artist/79001b57-792f-42d8-a580-cfd1f709cd6d) - Dr. Banard (_Suff Sells_, Meting Pot Music, 2012, Germany)
+1. [Free the Robots](http://musicbrainz.org/artist/9b733899-8bf7-419c-a26e-2b61ca8499bf) - Yoga Fire (_Free the Robots EP_, Elsewhere Studios, 2007, USA)
+1. [Onra](http://musicbrainz.org/artist/e6a76b1d-2cbb-4587-9c09-6b7333638a0a) - I Wanna Go Home (_Chinoiseries_, Label Rouge Prod, 2007, France)
+
 VGM:
 
 1. [Eirik Suhrke](http://musicbrainz.org/artist/b15a6fe6-8863-444c-bfc6-8d885e8896d1) - Home Waters - Down (_Ridiculous Fishing_, [no label], 2013, Norway) – from _Ridiculous Fishing_ by Vlambeer
