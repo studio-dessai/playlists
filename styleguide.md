@@ -1,7 +1,5 @@
 Lists are to be fashioned so:
 
-**Playlist for year–month–day**
-
 1. artist name - track title (_release_, label, year, country)
 1. artist name - track title (_release_, label, year, country)
 1. etc.
