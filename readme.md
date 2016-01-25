@@ -1,4 +1,4 @@
-This is for storing playlists, which are then copied to the corresponding post in the website repo when they are finalised (after the show).
+This is for storing playlists, which are then automatically included via a liquid tag in the corresponding post when published (after the show).
 
 Mix playlists are to be numbered and timed with the start time of each track, after the show recording has been finalised. This makes it easier for time-coding in MixCloud too (see 2014-08-07.md for an example).
 
