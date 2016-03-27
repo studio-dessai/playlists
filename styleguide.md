@@ -8,9 +8,9 @@ Please link the artist names to their corresponding [MusicBrainz](http://musicbr
 
 * _release_: use "single track", not italicised, when the track is published online on its own (e.g. this is the case for many tracks downloaded from Soundcloud).
 * _artist name_: includes the featured artist(s) too.
-* _label_: use "self-released" when no label.
+* _label_: use "not on label" when no label.
 * _year_: the year the release was released. Can also include the original release date for re-releases.
-* _country_: the country the artist(s) is (are) from. For several countries for the same artist, use "&"; to separate between artists. use "/".
+* _country_: the country the artist(s) (band) is (are) from. For several countries for the same artist or band, use "&"; to separate between artists or bands, use "/".
 * a purchase or download link can be included at the end of the line after a "–".
 
 The capitalisation and other details should follow the MusicBrainz [styleguide](https://musicbrainz.org/doc/Style) as closely as possible.
