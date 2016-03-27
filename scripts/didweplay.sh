@@ -1,0 +1,1 @@
+touch ./results/didweplay-''$1''.md ; for filename in ../20*.md ; do echo $filename >> ./results/didweplay-''$1''.md s; cat $filename | grep ''$1'' >> ./results/didweplay-''$1''.md ; done
