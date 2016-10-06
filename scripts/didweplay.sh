@@ -1,10 +1,15 @@
-# create a markdown file
 # TODO: replace existing file
 # TODO: only create a file if term was found
 # TODO: create ./results" directory if it doesn't exist
-# replace space(s) for path
+# TODO: output more stats in both the file and the terminal
+
+# replace space(s) for paths
 StrForName="${1// /_}" ;
+
+# create a markdown file
 touch ./results/didweplay-"$StrForName".md ;
+
+# analyse
 for filename in ../20*.md ; do
   if cat $filename | grep -i "$1" ; then
     # append filename
@@ -13,7 +18,8 @@ for filename in ../20*.md ; do
     cat $filename | grep -i "$1" >> ./results/didweplay-"$StrForName".md ;
   fi
 done
-# TODO: output more stats in both the file and the terminal
+
+# give feedback
 echo "Donskies! Results in ./results/didweplay-$StrForName.md" ;
 echo "Number of occurrences:" ;
 cat ./results/didweplay-"$StrForName".md | grep -i "$1" | wc -l
