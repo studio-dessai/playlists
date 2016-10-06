@@ -5,5 +5,6 @@ To find out how many times and when we played a particular artist. Creates a fil
 For example:
 
 `bash didweplay.sh "Autechre"`
+`bash didweplay.sh "brian eno"`
 
 The search is case-insensitive.
