@@ -4,6 +4,6 @@ To find out how many times and when we played a particular artist. Creates a fil
 
 For example:
 
-`bash didweplay.md Autechre`
+`bash didweplay.sh "Autechre"`
 
-Note that the search matches the case.
+The search is case-insensitive.
