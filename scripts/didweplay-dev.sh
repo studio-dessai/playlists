@@ -12,7 +12,6 @@ touch ./results/didweplay-"$StrForName".md ;
 # analyse
 for filename in ../20*.md ; do
   if cat $filename | grep -i "$1" ; then
-    # -i flag is for "case insensitive"
     # append filename
     echo $filename >> ./results/didweplay-"$StrForName".md ;
     # if search term found, append corresponding line
@@ -23,5 +22,4 @@ done
 # give feedback
 echo "Donskies! Results in ./results/didweplay-$StrForName.md" ;
 echo "Number of occurrences:" ;
-# count number of lines as proxy for number of occurences
 cat ./results/didweplay-"$StrForName".md | grep -i "$1" | wc -l
